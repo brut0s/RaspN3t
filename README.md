@@ -18,6 +18,8 @@ RaspN3t is a easy to use Python Script, that transforms the Raspberry Pi into a 
   
   8. Change HotSpot Password.
   
+  9. Added USB-Tethering Support.
+  
 
 
 ![raspn3t](https://user-images.githubusercontent.com/25351355/42127537-883f00dc-7c68-11e8-9291-1ca9af678382.png)
