@@ -1,3 +1,11 @@
+# -----------------------------------------------------
+# --[ name       : Ansi Escapes Module
+# --[ description: A simple module to make font coloring easier in python
+# --[ author     : TheCryptek
+# --[ github page: https://github.com/TheCryptek/
+# --[ Version    : N/A
+# -----------------------------------------------------
+
 class escapes:
 	HEADER = '\033[95m'
 	OKBLUE = '\033[94m'
